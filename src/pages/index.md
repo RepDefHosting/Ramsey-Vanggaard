@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/tech.png
   alt: Ramsey Vanggaard
   caption: null
 header: Client Name
