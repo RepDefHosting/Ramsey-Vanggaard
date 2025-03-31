@@ -8,7 +8,7 @@ published: true
 schemaType: ProfilePage
 header: Ramsey Vanggaard
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/tech.png
   alt: Hero Image
   caption: null
 connectWithMe: Menlo Park
