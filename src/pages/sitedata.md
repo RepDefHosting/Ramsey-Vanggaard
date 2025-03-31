@@ -10,7 +10,7 @@ profileImage:
 siteUrl: https://www.ramseyvanggaard.com/
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://twitter.com/RamseyVanggaard
     label: Visit
     show: false
   facebook:
