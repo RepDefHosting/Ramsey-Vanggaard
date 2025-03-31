@@ -33,3 +33,5 @@ schemaType: WebPage
 showRecentPosts: false
 ---
 Computer engineer with experience at top Silicon Valley tech companies, including Hooli, Aviato, and Piedpiper.
+
+* [I﻿nstagram](https://www.instagram.com/ramseyvanggaard/)
